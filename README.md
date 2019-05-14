@@ -1,5 +1,4 @@
-# SOEN6611_Team7
-Software Measurement
+#Software Measurement
 
 Project : An Empirical Study on Relation  Between  Object-Oriented Metrics and Change-Proneness
 
